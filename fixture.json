@@ -1,0 +1,20 @@
+{
+  "synthetic": true,
+  "events": [
+    {
+      "id": "S01",
+      "organization": "training",
+      "kind": "abstract_protocol"
+    },
+    {
+      "id": "S02",
+      "organization": "training",
+      "kind": "shortest_difference"
+    },
+    {
+      "id": "S03",
+      "organization": "training",
+      "kind": "cleanup_liveness"
+    }
+  ]
+}
